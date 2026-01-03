@@ -1,0 +1,7 @@
+{
+  "name": "Chegou Pizza - Delivery Premium",
+  "description": "App de delivery de pizza focado em experiência premium e conversão rápida.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
